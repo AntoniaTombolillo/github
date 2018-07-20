@@ -4,6 +4,7 @@
 # My files
 File da escludere.txt
 **/*.suo
+**/*.sqlite
 
 # User-specific files
 *.suo
